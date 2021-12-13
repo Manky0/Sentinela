@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Sentinela",
+    "slug": "sentinelaaufpa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.ufpa.sentinela",
+      "config": {
+        "googleMaps":{
+          "apiKey": "AIzaSyB-qCyRqmiSmRUzNfyixoQ34rPlxJM0658"
+        }
+      }
+    },
+    "androidNavigationBar": {
+      "backgroundColor": "#000000"
+    }, 
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "description": "teste."
+  }
+}
