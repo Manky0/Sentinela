@@ -23,7 +23,7 @@
       "package": "com.ufpa.sentinela",
       "config": {
         "googleMaps":{
-          "apiKey": "AIzaSyB-qCyRqmiSmRUzNfyixoQ34rPlxJM0658"
+          "apiKey": "GOOGLE_API_KEY"
         }
       }
     },
